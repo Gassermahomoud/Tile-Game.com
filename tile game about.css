@@ -1,0 +1,31 @@
+body{
+    background: #000000 ;
+
+}
+.add{
+    top: 2185%;
+    left: 2.8%;
+    width: 100%;
+    position: absolute;
+    text-align: center;
+    transform: translate(-50%,-50%);
+    
+ 
+}
+.add a{
+    display: inline;
+    padding: 11px 11px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    border-radius: 20px;
+    transition: 0.5s;
+    margin: 5%;
+    font-size: 17px;
+    
+
+}
+.add a:hover{
+    color: rgb(0, 0, 0);
+    background: #0062ff	;   
+    box-shadow: 0 0 5px #000, 0 0 25px #fffb00, 0 0 50px #ff0000	, 0 0 100px #fffb00,0 0 200px #ff0000,0 0 400px #fffb00;
+}
